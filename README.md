@@ -8,6 +8,6 @@ An attempt to mimic bittorrent client in C++.
 
 Note: Does not yet support magnet links. Will add the logic soon.
 
-Further Todos:
+## Further Todos:
 - Add multithreading so that multiple pieces can be downloaded simultaneously.
 - Support magnet links.
