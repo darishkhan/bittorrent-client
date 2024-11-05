@@ -7,3 +7,7 @@ An attempt to mimic bittorrent client in C++.
 - TCP connection with peers.
 
 Note: Does not yet support magnet links. Will add the logic soon.
+
+Further Todos:
+- Add multithreading so that multiple pieces can be downloaded simultaneously.
+- Support magnet links.
